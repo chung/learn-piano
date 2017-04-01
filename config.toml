@@ -1,0 +1,5 @@
+languageCode = "en-us"
+title = "Learn Piano"
+baseURL = "http://learn-piano.chung.loan/"
+theme = "hugo-theme-learn"
+
