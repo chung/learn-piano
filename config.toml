@@ -3,3 +3,14 @@ title = "Learn Piano"
 baseURL = "http://learn-piano.herokuapp.com/"
 theme = "hugo-theme-learn"
 
+[params]
+  # Prefix URL to edit current page. Useful to give opportunity to people to create merge request for your doc.
+  # See the config.toml file from this documentation site to have an example.
+  editURL = "https://github.com/chung/learn-piano/edit/master/content/"
+  # Author of the site, will be used in meta information
+  author = "Chung Nguyen"
+  # Description of the site, will be used in meta information
+  description = "Learning to play piano fast"
+  # Shows a checkmark for visited pages on the menu. Default to false
+  showVisitedLinks = true
+  autoNav = true
