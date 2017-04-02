@@ -1,5 +1,5 @@
 languageCode = "en-us"
 title = "Learn Piano"
-baseURL = "http://learn-piano.chung.loan/"
+baseURL = "http://learn-piano.herokuapp.com/"
 theme = "hugo-theme-learn"
 
