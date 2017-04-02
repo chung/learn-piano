@@ -34,7 +34,7 @@ _measure 17_
 13
 ~~~~
 
-_measure 18_
+_measure 18 (same as m.16)_
 ~~~~
 44                         42
 33 38 3g 33 38 3g 33 38 3g 33 38 3g
