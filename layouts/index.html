@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+<head>
+  <meta charset="utf-8">
+  {{ partial "meta.html" . }}
+  {{ partial "favicon.html" . }}
+{{ .Scratch.Add "title" "" }}{{ if isset .Site.Data.titles .Title }}{{ .Scratch.Set "title" (index .Site.Data.titles .Title).title }}{{ else }}{{ .Scratch.Set "title" .Title}}{{end}}
+  <title>{{ .Scratch.Get "title" }}</title>
+  {{ partial "style.html" . }}
+  <link href="{{ .Site.BaseURL }}/css/nucleus.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/font-awesome.min.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/hybrid.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/featherlight.min.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/perfect-scrollbar.min.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/theme.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}/css/hugo-theme.css" rel="stylesheet">
+  <style type="text/css">
+    :root #header + #content > #left > #rlblock_left {
+      display:none !important;
+    }
+
+    p,li,ul {
+      text-align: center
+    }
+
+    ul
+    {
+        list-style-type: none;
+    }
+  </style>
+</head>
+<body>
+
+<section id="body" style="margin-left:0px;">
+<div class="padding highlightable">
+  <h1>Learn piano fast</h1>
+  <p>
+  This site aims at amateur piano players: those of you in mid 30s or 40s or even as late as 60s or 70s. Who love the piano and have access to one, but without formal piano education, find themselves struggling to self-learn to play the piano. Like you, I started learning to play piano rather late, and on my own, struggled to learn a few favourite classical pieces. Something like Beethoven sonatas and Chopin nocturnes.
+  </p>
+  <h5>
+  The truth is: piano is among the easiest musical instruments to learn as a beginner.
+  </h5>
+  <p>
+  The conventional method of teaching the piano for children that I have seen is too slow and in-effective for me. It consists of practice routines, of learning to read sheet musics and then sight reading. Then learn some easy pieces according to the level of difficulty. After years of learning like that, I observed our children did not progress as fast as I have hoped. They are not confident in learning new pieces by themselves. They are not even confident performing the pieces that they already learnt. Their understanding of musical theory is very weak. And their musicality, the ability to rise above the technical aspects of a piece of music and communicate at a deeper level, is disappointing at best. But most importantly, they are gradually losing their interest in the piano. What a pity! Because learning piano should be so much fun.
+  </p>
+  <h5>
+  What is going on? Something must be wrong!
+  </h5>
+  <p>
+  As I did more research, and found <a href="http://www.pianofundamentals.com/book/en/chapter_1">the book</a>, I began to understand the root cause. It is in the practice method itself. Our children's piano teacher did not teach the best known methods for practing the piano. As a result, the kids "spend 100% of their time learning new compositions and, because this process takes so long, there is no time left to practice the art of making music." Because making music is necessary for technical development. "The goal here is to make the learning process so fast that we aim to allocate 10% of practice time to technical work and 90% to making music." I quoted the author's words here because it is so true to my heart. I believe in learning something fast. It is possible and this book shows me how.
+  </p>
+  <h5>
+  This site is a result of my journey learning the piano.
+  </h5>
+  <p>
+  I documented here with the hope that it might be useful for others in similar situations. Beside the book that I mentioned above, I also found the <a href="http://musicnotation.org/system/express-stave-by-john-keller/">Express Stave</a> music notation interesting and useful for beginner. It helps new student to read piano pieces quickly and translate the notes to piano keys easily. The relationship between this music notation with <a href="https://en.wikipedia.org/wiki/Duodecimal">couting base 12</a> is very closed. It makes perfect sense to start counting in base 12 because the piano essentially has 12 distinct keys (5 black and 7 white). This make understanding musical theory much easier.
+  </p>
+  <p>
+  Enough introduction, let's begin with a bit of <a href="/basics/">basics</a>, before starting one of the most beautiful pieces of piano (and easy to learn too): the <a href="/moonlight/">Moonlight sonata movement 1</a>.
+  </p>
+  <p><i class="fa fa-heart fa-4x"></i></p>
+</div>
+</section>
+</body>
+</html>
