@@ -1,6 +1,6 @@
 +++
 toc = true
-next = "/moonlight/"
+next = "/nocturne21/"
 prev = "/moonlight/theme-b-revisited"
 weight = 8
 title = "Theme A again: the End"

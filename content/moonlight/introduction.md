@@ -8,7 +8,7 @@ date = "2017-04-02T00:08:42+11:00"
 
 +++
 
-The introduction lasts 4 measures:
+The introduction lasts 4 measures. It is a good idea to listen to the [recording](https://www.youtube.com/watch?v=nT7_IZPHHb0) again to familiarize with the melody.
 
 _measure 1:_
 ~~~~

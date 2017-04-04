@@ -2,7 +2,7 @@
 icon = "<b>3. </b>"
 chapter = true
 next = "/nocturne21/introduction"
-prev = "/moonlight/"
+prev = "/moonlight/theme-a-ending"
 weight = 0
 title = "Chopin Nocturne No.21"
 date = "2017-04-03T00:04:58+11:00"

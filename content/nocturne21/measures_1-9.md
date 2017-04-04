@@ -78,4 +78,5 @@ _measure 9 (RH)_
 46 47 46 44 46 47   46 44      3g
 ~~~~
 
+Note: the fist 5 notes of measure 9 (46 47 46 44 46) are played against 2 notes on the left hand (1G 2G).
 That is it, with many duplicates, this section is not that hard. Next section will begin with the last note G (3g) of _measure 9_.
