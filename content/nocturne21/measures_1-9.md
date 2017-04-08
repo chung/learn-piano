@@ -37,7 +37,17 @@ _measure 3 (RH)_
 4X   4G 52 50   4G 44
 ~~~~
 
-Only after each hand can play adequately, then we practice hand together (HT). And continue with measure 4 & 5 left hand:
+Only after each hand can play adequately, then we practice hand together (HT).
+
+__measure 2-3 (HT)__
+~~~~
+44       46 47       49 4G          4G          4X      4G5250       4G 44
+                                    3G
+            37                	    37                      39                      37
+14    2G    34    2G    24    2G    34    2G    24    2G    33    2G    24    2G    34    2G
+~~~~
+
+And continue with measure 4 & 5 left hand:
 
 _measure 4 (LH)_ very similar with _measure 3 (LH)_:
 ~~~~
@@ -65,6 +75,14 @@ _measure 5 (RH)_
 
 The first 12 notes of _measure 5 (RH)_ are actually played against the 4 eight notes in the left hand. But it should not be a problem. It is not [_polyrhythm_](https://en.wikipedia.org/wiki/Polyrhythm) yet.
 
+__measure 4-5 (HT)__
+~~~~
+46      3G4240       3G 3G          44          4446444344464748494X504G46
+            39                	    37                                              36
+1G    2G    33    2G    24    2G    34    2G    1G    2X    37    2G    1G    2G    33    2G
+~~~~
+
+
 Measures 6-8 are exact duplicates of measures 2-4, so we will skip them here.
 
 _measure 9 (LH)_ = _measure 4 (LH)_:
@@ -75,8 +93,17 @@ _measure 9 (LH)_ = _measure 4 (LH)_:
 
 _measure 9 (RH)_
 ~~~~
-46 47 46 44 46 47   46 44      3g
+46 47 46 44 46 47   46 44      3G
 ~~~~
 
 Note: the fist 5 notes of measure 9 (46 47 46 44 46) are played against 2 notes on the left hand (1G 2G).
-That is it, with many duplicates, this section is not that hard. Next section will begin with the last note G (3g) of _measure 9_.
+
+__measure 9 (HT)__
+~~~~
+(4647464446)47       46 44                3G
+            39                      37
+1G    2G    33    2G    24    2G    34    2G
+~~~~
+
+
+That is it, with many duplicates, this section is not that hard. Next section will begin with the last octave G (2G-3G) of _measure 9_.
