@@ -10,7 +10,7 @@ date = "2017-04-02T00:08:42+11:00"
 
 After 10 measures from 5-14 devoted for the [main theme](/moonlight/theme-a), Beethoven immediately introduces the secondary theme B for the next 8 measures (15-22):
 
-_measure 15_
+#### measure 15
 ~~~~
                            43
 33 36 3x 33 36 3x 33 37 3x 33 37 3x
@@ -18,15 +18,15 @@ _measure 15_
 13
 ~~~~
 
-_measure 16_
+#### measure 16
 ~~~~
 44                         42
-33 38 3g 33 38 3g 33 38 3g 33 38 3g
-         28       2g       28
-         18       1g       18
+33 38 3G 33 38 3G 33 38 3G 33 38 3G
+         28       2G       28
+         18       1G       18
 ~~~~
 
-_measure 17_
+#### measure 17
 ~~~~
 43                         43
 33 37 3x 33 37 3x 33 37 3x 33 37 3x
@@ -34,15 +34,16 @@ _measure 17_
 13
 ~~~~
 
-_measure 18 (same as m.16)_
+#### measure 18
+_(same as m.16)_
 ~~~~
 44                         42
-33 38 3g 33 38 3g 33 38 3g 33 38 3g
-         28       2g       28
-         18       1g       18
+33 38 3G 33 38 3G 33 38 3G 33 38 3G
+         28       2G       28
+         18       1G       18
 ~~~~
 
-_measure 19_
+#### measure 19
 ~~~~
 43                43
 33 37 3x 33 37 3x 33 36 39 33 36 39
@@ -50,7 +51,7 @@ _measure 19_
 13                10
 ~~~~
 
-_measure 20_
+#### measure 20
 ~~~~
 43                41
 33 35 40 33 35 40 31 35 3x 31 35 3x
@@ -58,15 +59,15 @@ _measure 20_
 09                0x
 ~~~~
 
-_measure 21_
+#### measure 21
 ~~~~
-3g                3x
-2g 33 36 2g 33 36 2x 31 37 2x 31 37
+3G                3x
+2G 33 36 2G 33 36 2x 31 37 2x 31 37
 23                24
 13                14
 ~~~~
 
-_measure 22_
+#### measure 22
 ~~~~
 35                35     
 25 2x 31 25 2x 31 25 2x 30 25 29 30

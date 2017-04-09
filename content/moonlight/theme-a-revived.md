@@ -1,6 +1,6 @@
 +++
 toc = true
-next = "/moonlight/theme-b-revisited"
+next = "/moonlight/theme-b-revived"
 prev = "/moonlight/theme-c"
 weight = 6
 title = "Theme A revived"
@@ -10,7 +10,8 @@ date = "2017-04-02T00:08:42+11:00"
 
 After a long development (theme C), Beethoven then revive the main theme A for the next 9 measures (42-50):
 
-_measure 42 (same as m.5):_
+#### measure 42
+_(same as m.5):_
 ~~~~
                            40      40
 28 30 35 30 35 38 30 35 48 30 35 380
@@ -19,7 +20,8 @@ _measure 42 (same as m.5):_
 15
 ~~~~
 
-_measure 43 (same as m.6)_
+#### measure 43
+_(same as m.6)_
 ~~~~
 40                         40      40
 30 37 3x 30 37 3x 30 37 3x 30 37 3x
@@ -28,7 +30,8 @@ _measure 43 (same as m.6)_
 14
 ~~~~
 
-_measure 44 (same as m.7)_
+#### measure 44
+_(same as m.7)_
 ~~~~
 40                41
 30 35 38 30 35 38 31 35 3x 31 35 3x
@@ -36,7 +39,8 @@ _measure 44 (same as m.7)_
 15                0x
 ~~~~
 
-_measure 45 (same as m.8)_
+#### measure 45
+_(same as m.8)_
 ~~~~
 40                3x       43
 30 33 38 30 33 38 31 33 37 31 33 37
@@ -44,7 +48,7 @@ _measure 45 (same as m.8)_
 13                13
 ~~~~
 
-_measure 46_
+#### measure 46
 ~~~~
 38                         43      43
 30 33 38 33 38 40 33 38 40 33 38 40
@@ -55,7 +59,7 @@ _measure 46_
 
 Notice that the 4 measures from 42-45 are exactly the same as 4 measures from 5-8. Start from measure 46, it begins to move to the key E major (38-40-43) with the signature melody again.
 
-_measure 47_
+#### measure 47
 ~~~~
 43                         43      43
 33 3x 41 33 3x 41 33 3x 41 33 3x 41
@@ -63,7 +67,7 @@ _measure 47_
 17
 ~~~~
 
-_measure 48_
+#### measure 48
 ~~~~
 43                44       45
 33 38 40 33 38 40 34 3x 40 35 38 40
@@ -71,7 +75,7 @@ _measure 48_
 18                17       15
 ~~~~
 
-_measure 49_
+#### measure 49
 ~~~~
 47                48
 37 3x 40 37 3x 40 38 40 45 38 40 45
@@ -80,7 +84,7 @@ _measure 49_
 14                15
 ~~~~
 
-_measure 50_
+#### measure 50
 ~~~~
 46                44
 36 3x 41 36 3x 41 34 3x 40 34 3x 40

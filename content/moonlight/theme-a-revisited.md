@@ -10,7 +10,7 @@ date = "2017-04-02T00:08:42+11:00"
 
 After theme B, Beethoven quickly revisits the main theme A for the next 5 measures (23-27):
 
-_measure 23:_
+#### measure 23
 ~~~~
                            45      45
 2x 31 35 31 35 3x 35 3x 41 35 3x 41
@@ -30,7 +30,7 @@ _measure 23/24 (RH)_
 This time it is in the key F# minor (3x-41-45).
 
 
-_measure 24_
+#### measure 24
 ~~~~
 45                         45      45
 35 40 43 35 40 43 35 40 43 35 40 43
@@ -39,7 +39,7 @@ _measure 24_
 19
 ~~~~
 
-_measure 25_
+#### measure 25
 ~~~~
 45                44       45
 35 3x 41 35 3x 41 34 3x 41 35 3x 41
@@ -47,7 +47,7 @@ _measure 25_
 1x                17       15
 ~~~~
 
-_measure 26_
+#### measure 26
 ~~~~
 47                         47
 37 3x 40 37 3x 40 37 3x 40 37 3x 40
@@ -56,12 +56,12 @@ _measure 26_
 14                         14
 ~~~~
 
-_measure 27_
+#### measure 27
 ~~~~
 48                47       45
 38 40 45 38 40 45 37 3x 41 35 38 42 44
-25                1x       1g       20
-20                0x       0g       10
+25                1x       1G       20
+20                0x       0G       10
 15
 ~~~~
 
