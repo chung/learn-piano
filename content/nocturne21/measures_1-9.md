@@ -1,6 +1,6 @@
 +++
 toc = true
-next = "/nocturne21/"
+next = "/nocturne21/measures_10-21"
 prev = "/nocturne21/introduction"
 weight = 2
 title = "Measures 1-9"
@@ -39,7 +39,7 @@ _measure 3 (RH)_
 
 Only after each hand can play adequately, then we practice hand together (HT).
 
-__measure 2-3 (HT)__
+#### measure 2-3
 ~~~~
 44       46 47       49 4G          4G          4X      4G5250       4G 44
                                     3G
@@ -75,7 +75,7 @@ _measure 5 (RH)_
 
 The first 12 notes of _measure 5 (RH)_ are actually played against the 4 eight notes in the left hand. But it should not be a problem. It is not [_polyrhythm_](https://en.wikipedia.org/wiki/Polyrhythm) yet.
 
-__measure 4-5 (HT)__
+#### measure 4-5
 ~~~~
 46      3G4240       3G 3G          44          4446444344464748494X504G46
             39                	    37                                              36
@@ -98,7 +98,7 @@ _measure 9 (RH)_
 
 Note: the fist 5 notes of measure 9 (46 47 46 44 46) are played against 2 notes on the left hand (1G 2G).
 
-__measure 9 (HT)__
+#### measure 9
 ~~~~
 (4647464446)47       46 44                3G
             39                      37
