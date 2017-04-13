@@ -45,6 +45,7 @@ Only after each hand can play adequately, then we practice hand together (HT).
                                     3G
             37                	    37                      39                      37
 14    2G    34    2G    24    2G    34    2G    24    2G    33    2G    24    2G    34    2G
+-----------------------Cm--------------------------------  Fdim   ---------------Cm---------
 ~~~~
 
 And continue with measure 4 & 5 left hand:
@@ -80,6 +81,7 @@ The first 12 notes of _measure 5 (RH)_ are actually played against the 4 eight n
 46      3G4240       3G 3G          44          4446444344464748494X504G46
             39                	    37                                              36
 1G    2G    33    2G    24    2G    34    2G    1G    2X    37    2G    1G    2G    33    2G
+----------G7----------- ----------Cm----------- -------------------------G------------------
 ~~~~
 
 
@@ -103,6 +105,7 @@ Note: the fist 5 notes of measure 9 (46 47 46 44 46) are played against 2 notes 
 (4647464446)47       46 44                3G
             39                      37
 1G    2G    33    2G    24    2G    34    2G
+----------G7----------- ----------Cm--------
 ~~~~
 
 
