@@ -14,14 +14,14 @@ After a quick revisit of the [main theme](/moonlight/theme-a) with only 5 measur
 
 #### measure 28
 ~~~~
-34 37 40 34 37 41 34 37 3G 34 37
+34 37 40 34 37 41 34 37 3x 34 37
                                  20
                                  10
 ~~~~
 
 #### measure 29
 ~~~~
-34 37 30 34 37 31 34 37 2G 34 37 28
+34 37 30 34 37 31 34 37 2x 34 37 28
                                  20
                                  10
 ~~~~
