@@ -1,15 +1,15 @@
 +++
-icon = "<b>3. </b>"
+icon = "<b>4. </b>"
 chapter = true
 next = "/nocturne21/introduction"
-prev = "/moonlight/theme-a-ending"
+prev = "/nocturne20/"
 weight = 0
 title = "Chopin Nocturne No.21"
 date = "2017-04-03T00:04:58+11:00"
 
 +++
 
-### Chapter 3
+### Chapter 4
 
 # Chopin Nocturne No.21
 
